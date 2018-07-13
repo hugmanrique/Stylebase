@@ -1,6 +1,7 @@
 {
   "name": "@hugmanrique/stylebase",
   "version": "0.0.1",
+  "license": "MIT",
   "private": true,
   "author": {
     "name": "Hugo Manrique",
